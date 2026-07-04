@@ -8,6 +8,9 @@ G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\WEBAPI.dll
 G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\WEBAPI.pdb
 G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.csproj.AssemblyReference.cache
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +19,7 @@ G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.AssemblyInfo.cs
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.csproj.CoreCompileInputs.cache
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.sourcelink.json
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -31,6 +35,3 @@ G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\refint\WEBAPI.dll
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.pdb
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\WEBAPI.genruntimeconfig.cache
 G:\Проекты\Stepik\C# 1\WEBAPI\obj\Debug\net10.0\ref\WEBAPI.dll
-G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-G:\Проекты\Stepik\C# 1\WEBAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

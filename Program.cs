@@ -34,6 +34,13 @@ var summaries = new[]
 //     return forecast;
 // })
 // .WithName("GetWeatherForecast");
+app.Use(async (context, next) =>
+{
+    Console.WriteLine($">>> Запрос: {context.Request.Method} {context.Request.Path}");
+    await next();
+});
+
+app.MapControllers();
 
 app.Run();
 
